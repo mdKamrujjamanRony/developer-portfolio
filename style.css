@@ -36,3 +36,31 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+h2{
+    font-size: 40px;
+}
+.exprience-item{
+    width: 40%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 30px gray;
+    padding: 20px;
+    border-left: 7px solid;
+    
+}
+.exprience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
